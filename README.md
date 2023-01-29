@@ -1,7 +1,5 @@
-<h2 align="center">Hi 👋, I'm Fred</h2>
-<h4 align="center">Nice to meet you!</h4>
-
-<br />
+<h3 align="center">Hi 👋, I'm Fred</h3>
+<h6 align="center">Nice to meet you!</h6>
 
 ### About Me
 
@@ -13,7 +11,7 @@
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img height="20" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
 &nbsp;
-<a href="https://spring.io" target="_blank" rel="noreferrer"><img height="20" alt="spring" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></a>
+<a href="https://spring.io" target="_blank" rel="noreferrer"><img height="20" alt="spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></a>
 &nbsp;
 <a href="https://go.dev" target="_blank" rel="noreferrer"><img height="20" alt="go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></a>
 &nbsp;
